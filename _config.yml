@@ -1,0 +1,14 @@
+layout_spectrum: 0.21186319203116
+typography_spectrum: 0.8591696466319263
+color:
+  brandStrength: 0.7379021721426398
+  lightness: 0.5694019675720483
+  saturation: 0.4304317068308592
+  rhythmicContrast: 0.627850040094927
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+name: Mindspace
